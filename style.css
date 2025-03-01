@@ -342,6 +342,10 @@ body {
         gap: 1rem;
     }
 
+    .navbar {
+        width: 20rem;
+    }
+
     .porto {
         width: 100vw;
         height: 10vh;
